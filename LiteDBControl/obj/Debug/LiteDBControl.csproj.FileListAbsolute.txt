@@ -1,0 +1,11 @@
+D:\sc\Projects\LiteDBControl\LiteDBControl\bin\Debug\LiteDBControl.exe
+D:\sc\Projects\LiteDBControl\LiteDBControl\bin\Debug\LiteDBControl.pdb
+D:\sc\Projects\LiteDBControl\LiteDBControl\bin\Debug\LiteDB.dll
+D:\sc\Projects\LiteDBControl\LiteDBControl\obj\Debug\LiteDBControl.csprojResolveAssemblyReference.cache
+D:\sc\Projects\LiteDBControl\LiteDBControl\obj\Debug\LiteDBControl.Form1.resources
+D:\sc\Projects\LiteDBControl\LiteDBControl\obj\Debug\LiteDBControl.Properties.Resources.resources
+D:\sc\Projects\LiteDBControl\LiteDBControl\obj\Debug\LiteDBControl.csproj.GenerateResource.cache
+D:\sc\Projects\LiteDBControl\LiteDBControl\obj\Debug\LiteDBControl.csproj.CoreCompileInputs.cache
+D:\sc\Projects\LiteDBControl\LiteDBControl\obj\Debug\LiteDBControl.csproj.CopyComplete
+D:\sc\Projects\LiteDBControl\LiteDBControl\obj\Debug\LiteDBControl.exe
+D:\sc\Projects\LiteDBControl\LiteDBControl\obj\Debug\LiteDBControl.pdb
